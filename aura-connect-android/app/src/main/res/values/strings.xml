@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aura Connect</string>
+    <string name="accessibility_service_description">Aura Connect accessibility bridge for device control setup.</string>
+</resources>
